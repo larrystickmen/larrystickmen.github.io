@@ -1,6 +1,6 @@
 # Larry Studios
 
-<html>
+
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
@@ -33,5 +33,4 @@
         </p>
     </body>
     <script src="stats.js"></script>
-    <a href="https://flareproj.github.io/dashboard">Back to Dashboard<a>
-</html>
+
