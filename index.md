@@ -4,7 +4,10 @@
 ### [Brain Hurt Games](https://github.com/larrystudios/brainhurtgames/releases)<br>
 ### [Brain Hurt Games Plus](https://github.com/larrystudios/brainhurtplus/releases)<br>
 ### [Brain Hurt Games PDF Edition](https://github.com/larrystudios/brainhurtpdf/releases)<br>
-### [Larry Stickmen](https://github.com/larrystudios/larrystickmen/releases)
+### [Larry Stickmen](https://github.com/larrystudios/larrystickmen/releases)<br><br>
+
+
+### Statistics
 
 <html>
     <head>
