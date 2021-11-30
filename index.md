@@ -39,6 +39,5 @@
                     <p class="text-light">Clones</p>     
         </p>
     <script src="stats.js"></script>           
-                    
-<!-- Hi -->
+
 
