@@ -32,6 +32,6 @@
               </div>
         </p>
     </body>
-    <script src="statsanim.js"></script>
+    <script src="stats.js"></script>
     <a href="https://flareproj.github.io/dashboard">Back to Dashboard<a>
 </html>
