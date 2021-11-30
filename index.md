@@ -27,12 +27,14 @@
             <div class="container">
                 <div class="row">
                   <div class="col-sm">
+                      <p class="text-light">Served Awesomeness to</p>
                       <p id='01' class="fs-2 text-light">2</p>
-                      <p class="text-light">Total Downloads</p>
+                      <p class="text-light">Users</p>
                   </div>
                   <div class="col-sm">
+                      <p class="text-light">Repository has</p>
                     <p id='02' class="fs-2 text-light">2>/p>
-                    <p class="text-light">Total Repo Clones</p>     
+                    <p class="text-light">Clones</p>     
         </p>
     <script src="stats.js"></script>           
                     
