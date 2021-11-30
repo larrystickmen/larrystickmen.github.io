@@ -35,7 +35,7 @@
         </p>
  
     <script src="stats.js"></script>
-                    
+</html>           
                     
 <!-- Hi -->
 
