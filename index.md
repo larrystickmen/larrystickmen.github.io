@@ -19,8 +19,7 @@
            text-align: center; 
         }
     </style>
-    <body onload="load()">
-        
+    <body onload="load()"> 
         <p>
             <div class="container">
                 <div class="row">
@@ -33,9 +32,7 @@
                     <p class="text-light">Total Repo Clones</p>
                  
         </p>
- 
-    <script src="stats.js"></script>
-</html>           
+    <script src="stats.js"></script>           
                     
 <!-- Hi -->
 
