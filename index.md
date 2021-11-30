@@ -1,5 +1,11 @@
 # Larry Studios
 
+### Hi, we're Larry Studios! 👋  We make **games** using **presentations**. Although it sounds weird, we actually do it! *(and yes, it works)* Look at some of our games here : <br>
+### [Brain Hurt Games](https://github.com/larrystudios/brainhurtgames/releases)<br>
+### [Brain Hurt Games Plus](https://github.com/larrystudios/brainhurtplus/releases)<br>
+### [Brain Hurt Games PDF Edition](https://github.com/larrystudios/brainhurtpdf/releases)<br>
+### [Larry Stickmen](https://github.com/larrystudios/larrystickmen/releases)
+
 <html>
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,9 +20,7 @@
         }
     </style>
     <body onload="load()">
-        <p>
-        <div class="d-flex justify-content-center fs-1 fw-bold ">Statistics</div>
-        </p>
+        
         <p>
             <div class="container">
                 <div class="row">
@@ -31,4 +35,7 @@
         </p>
  
     <script src="stats.js"></script>
+                    
+                    
+<!-- Hi -->
 
