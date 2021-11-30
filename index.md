@@ -7,7 +7,7 @@
 ### [Larry Stickmen](https://github.com/larrystudios/larrystickmen/releases)<br><br>
 
 
-### Statistics
+# Statistics
 
 <html>
     <head>
