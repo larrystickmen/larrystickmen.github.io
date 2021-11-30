@@ -27,10 +27,8 @@
                   <div class="col-sm">
                     <p id='02' class="fs-2 text-light">2>/p>
                     <p class="text-light">Total Repo Clones</p>
-                  </div>
-                </div>
-              </div>
+                 
         </p>
-    </body>
+ 
     <script src="stats.js"></script>
-</html>
+
