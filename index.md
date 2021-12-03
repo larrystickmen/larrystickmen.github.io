@@ -35,8 +35,8 @@
                   <div class="col-sm">
                       <br>
                       <p class="text-light">GitHub Repository has</p>
-                    <p id='02' class="fs-2 text-light">98</p>
-                    <p class="text-light">Clones</p>     
+                      <p id='02' class="fs-2 text-light">98</p>
+                      <p class="text-light">Clones</p>     
     <script src="stats.js"></script>   
     <!-- Last Updated 3 Dec 2021 -->
 
