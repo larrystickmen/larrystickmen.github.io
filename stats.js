@@ -32,8 +32,8 @@ let text2 = document.getElementById('02');
 
 const load = () =>{
 
-    animate(text1, 0, 1702, 2000);
-    animate(text2, 0, 98, 2000);
+    animate(text1, 0, 2000, 2000);
+    animate(text2, 0, 100, 2000);
 
 }
 
