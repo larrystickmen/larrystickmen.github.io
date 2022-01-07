@@ -10,4 +10,4 @@
 **Brain Hurt Games v2.5.0 Beta 13 : [Download](https://github.com/larrystudios/brainhurtgames/releases/download/v2.5.0-beta.13/BrainHurtGames-v2.5.0-beta.13.zip)**
 
 **Larry Studios v2 Beta 6 : [Download](https://github.com/larrystudios/larrystickmen/releases/tag/v2.0.6)**
-<footer>&copy;2022 Larry Studios</footer>
+<sub>&copy;2022 Larry Studios</sub>
