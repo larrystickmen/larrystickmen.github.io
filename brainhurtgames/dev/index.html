@@ -1,9 +1,9 @@
-<!--
-
 <style> @media { body { background-color: black; color: white; } } @font-face { font-family: font; src: url("https://larrystudios.github.io/gt-america.ttf"); } * { font-family: font; } </style>
 
 <h1>Developer Access</h1><br>
 <p>Please enter your access code given by the developers below.</p>
+
+<!-- 
 
 BHG2-<input id="version" type="text" maxlength="4">-<input id="yearweek" type="number">-<input id="iden" type="number">-<input id="type" type="text"> <button onclick="validate()">Go</button>
 
@@ -19,3 +19,11 @@ BHG2-<input id="version" type="text" maxlength="4">-<input id="yearweek" type="n
 </script>
 
 -->
+
+
+BHG2-<input id="code" type="text" maxlength="21"> <button onclick="go()">Go</button>
+
+<script>
+  function go() {
+    if document.getElementById("code").innerHTML == "0500-2203-7777777-DEV" {
+      window.location.replace("https://github.com/larrystudiosdevs/brainhurtgames/releases/download/v2.5.0-gamma.1/BrainHurtGames-v2.5.0-gamma.1.key")
