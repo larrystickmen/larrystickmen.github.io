@@ -6,10 +6,19 @@
 [Brain Hurt Games PDF Edition](https://github.com/larrystudios/brainhurtpdf/releases)<br>
 [Larry Stickmen](https://github.com/larrystudios/larrystickmen/releases)<br><br>**
 
-# Latest Versions
-**Brain Hurt Games v2.5.0 Beta 13 : [Download](https://github.com/larrystudios/brainhurtgames/releases/download/v2.5.0-beta.13/BrainHurtGames-v2.5.0-beta.13.zip)**
+<br>
 
-**Larry Studios v2 Beta 6 : [Download](https://github.com/larrystudios/larrystickmen/releases/tag/v2.0.6)**
+# Latest Stable Versions
+**Brain Hurt Games v2.5.0 : [Download](https://github.com/larrystudios/brainhurtgames/releases/tag/v2.5.0)**
+
+**Larry Stickmen v1.1.1 : [Download](https://github.com/larrystudios/larrystickmen/releases/tag/v1.1.1)**
+
+<br>
+
+# Latest Developer Versions
+**Brain Hurt Games v3.0.0 Build 300.0 : *Coming Soon...***
+
+**Larry Stickmen v2 Beta 6 : [Download](https://github.com/larrystudios/larrystickmen/releases/tag/v2.0.6)**
 
 
-<sub>&copy;2022 Larry Studios</sub>
+<sub>&copy;2020-2022 Larry Studios</sub>
