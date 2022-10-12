@@ -16,9 +16,15 @@
 <br>
 
 # Latest Developer Versions
-**Brain Hurt Games v3.0.0 Build 300.0 : *Coming Soon...***
+**Brain Hurt Games v3.0.0.301 : [Download](https://github.com/larrystudios/brainhurtdev/releases/tag/v3.0.0.301)**
 
 **Larry Stickmen v2 Beta 6 : [Download](https://github.com/larrystudios/larrystickmen/releases/tag/v2.0.6)**
+
+<br>
+
+## Larry Studios News
+- World celebrates Brain Hurt Games v3.0.0 Dev Release with 3-minute firework show containing wallpaper colors
+- Brain Hurt Games v3.0.0 Developer Release is out now, go try it out!
 
 
 <sub>&copy;2020-2022 Larry Studios</sub>
